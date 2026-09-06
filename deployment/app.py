@@ -16,9 +16,9 @@ st.set_page_config(
 # Load Model, Imputer, and Features
 # ============================================
 
-model = joblib.load("water_potability_model.pkl")
-imputer = joblib.load("water_potability_imputer.pkl")
-features = joblib.load("water_potability_features.pkl")
+model = joblib.load("deployment/water_potability_model.pkl")
+imputer = joblib.load("deployment/water_potability_imputer.pkl")
+features = joblib.load("deployment/water_potability_features.pkl")
 
 # ============================================
 # Page Title
