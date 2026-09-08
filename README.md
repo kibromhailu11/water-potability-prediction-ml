@@ -1,8 +1,16 @@
-# Water Potability Prediction using Machine Learning
+# Water Potability Prediction Using Machine Learning
+
+## 🌐 Project Links
+
+- 🚀 **Live Demo:** 👉 [Try the Water Potability Prediction App](https://water-potability-prediction-ml-vr3z64jw5yq6spmyye2ra7.streamlit.app/)
+- 💻 **Source Code:** [GitHub Repository](https://github.com/kibromhailu11/water-potability-prediction-ml)
+An interactive web application that predicts whether water is potable or not potable based on water-quality measurements.
 
 ## 📌 Project Overview
 
-This project uses machine learning to predict whether water is **potable (safe to drink)** or **not potable** based on several water-quality measurements.
+This project uses machine learning classification models to predict water potability from nine water-quality features.
+
+...
 
 The problem is treated as a **binary classification problem**, where:
 
